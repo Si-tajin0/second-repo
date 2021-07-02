@@ -1,0 +1,18 @@
+body {
+    min-height: 100vh;
+    background-color:seagreen;
+    padding: 0 80px;
+}
+h1{
+    color:chartreuse;
+}
+h2{
+    color: midnightblue;
+}
+p{
+    color: burlywood;
+}
+p span{
+    font-size: 20px;
+    color:yellow;
+}
