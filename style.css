@@ -16,3 +16,17 @@ p span{
     font-size: 20px;
     color:yellow;
 }
+div p{
+    font-size: 20px;
+    color:red;
+    font-style: italic;
+}
+div h3{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(165, 9, 255);
+}
+div p.lorem{
+    color: rgb(17, 0, 255);
+    font-style: oblique;
+}
